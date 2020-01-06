@@ -1,0 +1,17 @@
+*~
+*.class
+.classpath
+.project
+.settings/
+.pydevproject
+.settings
+.DS_Store
+*.swp
+*.pyc
+findbugs-results
+*.launch
+.metadata/
+/thrift
+target/
+.idea/
+*.iml
